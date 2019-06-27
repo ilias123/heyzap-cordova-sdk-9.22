@@ -1,7 +1,7 @@
 Heyzap Cordova Plugin
 =====================
 
-Heyzap SDK Version: 9.15.1
+Heyzap SDK Version: 9.22
 
 This the Heyzap SDK plugin for Apache Cordova.
 
@@ -21,8 +21,7 @@ Third party SDKs can be added by adding their appropriate plugins found in the [
 
 Supported Platforms
 -------------------
-- iOS (cordova-ios engine 3.8.0 and later)
-- Android (cordova-android engine 4.0.0 and later)
+- Android only (cordova-android engine 4.0.0 and later)
 
 External Libraries Used
 -----------------------
