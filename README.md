@@ -12,7 +12,7 @@ Documentation
 Installing
 ----------
 ```
-cordova plugin add heyzap-cordova
+cordova plugin add https://github.com/ilias123/heyzap-cordova-sdk-9.22.git
 ```
 
 Adding Third-Party SDKs
